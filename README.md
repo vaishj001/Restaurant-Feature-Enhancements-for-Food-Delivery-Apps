@@ -42,7 +42,7 @@ These enhancements improve **customer experience, restaurant engagement, and sus
 
 ---
 
-## 💻 **Data & Tech Stack**
+## 🔬 **Data & Tech Stack**
 
 ### 📂 **Dataset Overview**
 
@@ -53,7 +53,7 @@ These enhancements improve **customer experience, restaurant engagement, and sus
   - **User Preferences**: Dietary habits, previous selections, payment methods
   - **Ratings & Reviews**: Overall experience, food quality, service quality
 
-### **Tech Stack & Tools**
+### 💻 **Tech Stack & Tools**
 
 | Task                    | Tools & Methods               |
 | ----------------------- | ----------------------------- |
