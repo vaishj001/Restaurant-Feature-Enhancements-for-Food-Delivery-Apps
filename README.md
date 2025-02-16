@@ -37,7 +37,6 @@ These enhancements improve **customer experience, restaurant engagement, and sus
 
 📌 **Workflow Diagram** → Illustrates the data flow from user selection to restaurant recommendations.\
 📌 **Mockups & UI Screens** → Showcases the experience from filtering to gamification elements.\
-📌 **Feature Validation** → Testing confirmed that users **preferred mood-based sorting** over traditional search methods.\
 📌 **Strategic Trade-offs** → The **60:40 model** was selected to maximize fairness while maintaining user satisfaction.
 
 ---
@@ -46,7 +45,7 @@ These enhancements improve **customer experience, restaurant engagement, and sus
 
 ### 📂 **Dataset Overview**
 
-- **Source**: Restaurant & Consumer Data, Recommender Systems Domain (National Center for Research and Technological Development, México)
+- **Source**: [**Restaurant & Consumer Data**](https://archive.ics.uci.edu/dataset/232/restaurant+consumer+data), UCI Machine Learning Repository
 - **Size**: 1,300+ restaurant records with associated user interactions
 - **Key Features**:
   - **Restaurant Attributes**: Cuisine type, price range, eco-friendly status
@@ -59,7 +58,7 @@ These enhancements improve **customer experience, restaurant engagement, and sus
 | ----------------------- | ----------------------------- |
 | Feature Design          | Canva, Figma, Lucidchart      |
 | Data Processing         | Python, Pandas, NumPy         |
-| Visualization           | Power BI, Matplotlib, Seaborn |
+| Visualization           | Matplotlib, Seaborn           |
 | Gamification Simulation | Python (Scikit-learn)         |
 
 ---
